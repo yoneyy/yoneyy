@@ -1,4 +1,4 @@
-### Hi there 👋
+![yoneyy GitHub stats](https://github-readme-stats.vercel.app/api?username=yoneyy&show_icons=true&theme=tokyonight)
 
 <!--
 **yoneyy/yoneyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
