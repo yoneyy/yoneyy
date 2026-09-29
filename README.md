@@ -1,6 +1,6 @@
 ### _👋 Hi there, I'm Yoneyy._
 <div>
-  <img src="https://assets.kodo.yoneyy.com/2022-11-11-6934e52209f79052459b2c701bf3d7ca7acbd50e%20-1-.gif" width="200px" />
+  <!-- <img src="https://assets.kodo.yoneyy.com/2022-11-11-6934e52209f79052459b2c701bf3d7ca7acbd50e%20-1-.gif" width="200px" /> -->
   <div>
     <!--
       <img src="https://yoneyy.gonghuolianmeng.com/2022-11-11-mona-whisper.gif" width="50px" />
